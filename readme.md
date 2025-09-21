@@ -64,4 +64,5 @@ Le fichier xml devra suivre cette structure :
 Le programme ne gère pas les doublons présents dans les sections :
 - Fonctions
 - SousFonctions
+
 Ces doublons seront insérés tels quels dans la base.
