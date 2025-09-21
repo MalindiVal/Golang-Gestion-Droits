@@ -1,3 +1,6 @@
+# Structure 
+Ce programme permet de se connecter à une base de donnée mongoDB 
+# Fonctionnement
 Cette executable consiste à exporter des fichiers xml sur une base de donnée mongoDB :
 
 Il suffit de lancer l'executable puis d'indiquer le chemin d'accées du fichier 
