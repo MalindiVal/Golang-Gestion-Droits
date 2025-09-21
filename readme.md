@@ -62,6 +62,6 @@ Le fichier xml devra suivre cette structure :
 ```
 # Limitations
 Le programme ne gère pas les doublons présents dans les sections :
-- ```xml <Fonctions>```
-- ```xml <SousFonctions>```
+- Fonctions
+- SousFonctions
 Ces doublons seront insérés tels quels dans la base.
