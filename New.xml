@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssociationProfilFonctionsEtSousFonctions>
+	<Profil Code="XYZ_ABC" Nom="Accès antécédents"></Profil>
+	<Fonctions>
+		<Fonction Code="16000002" Nom="Antecedents_LectureEcriture"></Fonction>
+	</Fonctions>
+	<SousFonctions></SousFonctions>
+</AssociationProfilFonctionsEtSousFonctions>

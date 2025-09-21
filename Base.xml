@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssociationProfilFonctionsEtSousFonctions>
+	<Profil Code="" Nom=""></Profil>
+	<Fonctions>
+		<Fonction Code="16000002" Nom="Antecedents_LectureEcriture"></Fonction>
+	</Fonctions>
+	<SousFonctions>
+		<SousFonction Code="11112222" Nom="Random Sous-Fonction 3"></SousFonction>
+		<SousFonction Code="33334444" Nom="Random Sous-Fonction 4"></SousFonction>
+	</SousFonctions>
+</AssociationProfilFonctionsEtSousFonctions>
